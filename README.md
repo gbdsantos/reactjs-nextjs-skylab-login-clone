@@ -50,9 +50,9 @@ yarn dev
 
 ## :wrench: Tecnology
 
-- [Chakra UI](#https://chakra-ui.com/ "Component library to design system")
+- [Chakra UI](https://chakra-ui.com/ "Component library to design system")
 - [ReactJS](https://reactjs.org/ "A JavaScript library for user interfaces")
-- [NextJS](#https://nextjs.org/ "The React framework with server rendering")
+- [NextJS](https://nextjs.org/ "The React framework with server rendering")
 - [Typescript](https://www.typescriptlang.org/ "TypeScript extends JavaScript by adding types")
 
 ## :memo: License

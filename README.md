@@ -26,6 +26,8 @@
   <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/reactjs-nextjs-skylab-login-clone">
 </p>
 
+<img alt="Project Demo" src="https://i1.lensdump.com/i/jGvNci.gif" height="300" />
+
 <div align="center">
   <h4 align="center">Read on Languages</h4>
   <a href="https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone/blob/master/README-PT-BR.md">🇧🇷
